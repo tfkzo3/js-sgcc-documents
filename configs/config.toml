@@ -1,0 +1,6 @@
+
+host = 'internal.firewall.js.sgcc.com.cn'
+port = 23306
+database = 'power-devices'
+user = 'root'
+password = 'zFfGicYNbyZ1MzF'
